@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/home-note-my-blog/","tags":["gardenEntry"],"noteIcon":"","created":"2025-07-07T21:29:15.482+02:00","updated":"2025-07-07T21:37:36.679+02:00"}
+{"aliases":null,"dg-publish":true,"dg-home":true,"permalink":"/inbox/home-note-my-blog/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-07T21:29:15.482+02:00","updated":"2025-07-07T21:47:34.847+02:00"}
 ---
 
 # Hi this is my new blog
@@ -11,3 +11,5 @@
 ![](https://youtu.be/AbmQfmz7B98?si=XVuEWXzR-DXJsvww)
 
 ![](https://youtu.be/s4hZz9Vd0lY?si=wDsIXKdlSNebpFZ3)
+
+![screenshot 3.png](/img/user/Bins/Media/screenshot%203.png)
