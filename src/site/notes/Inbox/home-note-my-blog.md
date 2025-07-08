@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/home-note-my-blog/","tags":["gardenEntry"],"created":"2025-07-07T21:29:15.482+02:00","updated":"2025-07-08T10:28:51.780+02:00"}
+{"dg-publish":true,"permalink":"/inbox/home-note-my-blog/","tags":["gardenEntry"],"created":"2025-07-07T21:29:15.482+02:00","updated":"2025-07-08T10:31:05.402+02:00"}
 ---
 
-# Hi this is my new blog
 
-# 
+# Why Ahmed uses the term impression 
+
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
