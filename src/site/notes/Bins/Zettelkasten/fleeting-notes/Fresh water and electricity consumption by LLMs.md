@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"note-type":["fleeting-note"],"source":null,"tags":null,"parent":[],"child":null,"permalink":"/bins/zettelkasten/fleeting-notes/fresh-water-and-electricity-consumption-by-ll-ms/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-07-09T23:12:01.932+02:00","updated":"2025-07-10T20:30:36.226+02:00"}
+{"dg-publish":true,"permalink":"/bins/zettelkasten/fleeting-notes/fresh-water-and-electricity-consumption-by-ll-ms/","created":"2025-07-09T22:55:37.849+02:00","updated":"2025-07-10T20:30:36.226+02:00"}
 ---
 
 The other day, I listened to a conversation on Democracy Now[^1] that highlighted the freshwater consumption required to train large language models (LLMs). The speaker discussed how corporations like OpenAI operate globally, building infrastructure such as data centers in water-scarce environments—places where local populations already struggle to access freshwater. She was drawing a connection between historical empialism and ciolonialism and today’s corporate imperialisms, showing how corporations extract resources without giving back to the communities.

@@ -1,5 +1,5 @@
 ---
-{"tags":[],"date":"[[2024-10-22]]","note-type":["main-note"],"source":null,"dg-publish":true,"parent":[],"child":null,"permalink":"/bins/zettelkasten/main-notes/the-importance-of-distinguishing-different-type-of-notes-and-the-why/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-24T11:21:27.828+01:00","updated":"2025-07-10T21:00:39.035+02:00"}
+{"dg-publish":true,"permalink":"/bins/zettelkasten/main-notes/the-importance-of-distinguishing-different-type-of-notes-and-the-why/","created":"2025-01-24T11:21:27.828+01:00","updated":"2025-07-10T21:00:39.035+02:00"}
 ---
 
 

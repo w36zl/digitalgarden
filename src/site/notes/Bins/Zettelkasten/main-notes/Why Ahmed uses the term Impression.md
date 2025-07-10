@@ -1,5 +1,5 @@
 ---
-{"tags":[],"date":"[[2024-10-22]]","dg-publish":true,"note-type":["main-note"],"source":null,"parent":[],"child":null,"permalink":"/bins/zettelkasten/main-notes/why-ahmed-uses-the-term-impression/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-24T11:21:27.872+01:00","updated":"2025-07-10T00:23:42.183+02:00"}
+{"dg-publish":true,"permalink":"/bins/zettelkasten/main-notes/why-ahmed-uses-the-term-impression/","created":"2025-01-24T11:21:27.872+01:00","updated":"2025-07-10T00:23:42.183+02:00"}
 ---
 
 
