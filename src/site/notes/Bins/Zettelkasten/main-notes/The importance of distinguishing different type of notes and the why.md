@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bins/zettelkasten/main-notes/the-importance-of-distinguishing-different-type-of-notes-and-the-why/","created":"2025-01-24T11:21:27.828+01:00","updated":"2025-07-10T21:00:39.035+02:00"}
+{"tags":[],"date":"[[2024-10-22]]","note-type":["main-note"],"source":null,"dg-publish":true,"parent":[],"child":null,"permalink":"/bins/zettelkasten/main-notes/the-importance-of-distinguishing-different-type-of-notes-and-the-why/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-01-24T11:21:27.828+01:00","updated":"2025-07-10T21:08:30.469+02:00"}
 ---
 
 
@@ -7,4 +7,4 @@ To distinguish the function of different types of notes, there is less clutter. 
 
 > It's perfectly acceptable to incorporate questions into your zettelkasten, since these can serve as both placeholders for future answers and prompts for shorter writing pieces. But, questions left unanswered are a somewhat low-value form of content. After all, how will a question help you in your writing if you don't know the answer? Where is the idea you want to get across? In order for questions to become useful, they need to be transformed into something usable
 
-[@dotoSystemWritingHow2024]
+Doto, B. (2024). _A system for writing: How an unconventional approach to note-making can help you capture ideas, think wildly, and write constantly_ (First edition). New Old Traditions.
