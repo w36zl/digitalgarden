@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bins/zettelkasten/reference-notes/going-from-pratt-to-museum-to-wekker-to-sara-to-radical-empathy/","tags":["gardenEntry"],"created":"2024-10-24T01:02:31.000+02:00","updated":"2025-08-19T16:14:19.169+02:00"}
+{"dg-publish":true,"permalink":"/bins/zettelkasten/reference-notes/going-from-pratt-to-museum-to-wekker-to-sara-to-radical-empathy/","created":"2024-10-24T01:02:31.000+02:00","updated":"2025-08-19T16:18:49.663+02:00"}
 ---
 
 The museum as  concept zone 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bins/books/the-cultural-politics-of-emotion/","title":"Cultural Politics of Emotion","tags":["Affect_","Feminism","intersectional_feminism","gardenEntry"],"created":"2025-01-24T11:21:27.819+01:00","updated":"2025-08-19T12:48:35.019+02:00"}
+{"dg-publish":true,"permalink":"/bins/books/the-cultural-politics-of-emotion/","title":"Cultural Politics of Emotion","tags":["Affect_","Feminism","intersectional_feminism"],"created":"2025-01-24T11:21:27.819+01:00","updated":"2025-08-19T16:19:13.792+02:00"}
 ---
 
 # Introduction: Feel Your Way (pp. 1-19)
