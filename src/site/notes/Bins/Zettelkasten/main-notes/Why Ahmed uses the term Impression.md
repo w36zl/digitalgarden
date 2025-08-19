@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bins/zettelkasten/main-notes/why-ahmed-uses-the-term-impression/","created":"2025-01-24T11:21:27.872+01:00","updated":"2025-07-10T00:23:42.183+02:00"}
+{"dg-publish":true,"permalink":"/bins/zettelkasten/main-notes/why-ahmed-uses-the-term-impression/","created":"2025-01-24T11:21:27.872+01:00","updated":"2025-08-19T12:14:15.849+02:00"}
 ---
 
 
