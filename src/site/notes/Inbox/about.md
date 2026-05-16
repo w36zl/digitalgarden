@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/about/","tags":["gardenEntry"],"created":"2026-05-16T12:20:00.000+02:00","updated":"2026-05-16T12:20:00.000+02:00"}
+{"dg-publish":true,"permalink":"/inbox/about/","created":"2026-05-16T12:20:00.000+02:00","updated":"2026-05-16T12:20:00.000+02:00"}
 ---
 
 # About
