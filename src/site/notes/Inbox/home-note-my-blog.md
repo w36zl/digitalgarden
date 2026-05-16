@@ -7,6 +7,7 @@
 This is a digital garden — notes, ideas, and connections in progress. Not a finished blog. Things grow here.
 
 → [[Inbox/about|About me and this garden]]
+→ [[Inbox/blog|All posts]]
 
 ## Notes
 
