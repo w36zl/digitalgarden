@@ -1,12 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/home-note-my-blog/","tags":["gardenEntry"],"created":"2025-07-07T21:29:15.482+02:00","updated":"2025-08-19T16:14:57.246+02:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/inbox/home-note-my-blog/","tags":["gardenEntry"],"created":"2025-07-07T21:29:15.482+02:00","updated":"2026-05-16T12:20:00.000+02:00"}
 ---
 
+# Welcome
 
-# Some random notes
+This is a digital garden — notes, ideas, and connections in progress. Not a finished blog. Things grow here.
 
-- [[Bins/Zettelkasten/main-notes/Why Ahmed uses the term Impression\|Why Ahmed uses the term Impression]]
-- [[Bins/Zettelkasten/fleeting-notes/Fresh water and electricity consumption by LLMs\|Fresh water and electricity consumption by LLMs]]
-- [[Bins/Zettelkasten/main-notes/The importance of distinguishing different type of notes and the why\|The importance of distinguishing different type of notes and the why]]
-- [[Inbox/Testing-embeds\|Testing-embeds]]
-- [[Bins/Zettelkasten/Reference Notes/Going from Pratt to museum to wekker to Sara to radical empathy\|Going from Pratt to museum to wekker to Sara to radical empathy]]
+→ [[about|About me and this garden]]
+
+## Notes
+
+- [[Why Ahmed uses the term Impression]]
+- [[Fresh water and electricity consumption by LLMs]]
+- [[The importance of distinguishing different type of notes and the why]]
+- [[Testing-embeds]]
+- [[Going from Pratt to museum to wekker to Sara to radical empathy]]
