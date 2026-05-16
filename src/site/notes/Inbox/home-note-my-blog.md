@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/inbox/home-note-my-blog/","tags":["gardenEntry"],"created":"2025-07-07T21:29:15.482+02:00","updated":"2026-05-16T12:20:00.000+02:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/inbox/home-note-my-blog/","tags":["gardenEntry"],"created":"2025-07-07T21:29:15.482+02:00","updated":"2026-05-16T12:30:00.000+02:00"}
 ---
 
 # Welcome
 
 This is a digital garden — notes, ideas, and connections in progress. Not a finished blog. Things grow here.
 
-→ [[about|About me and this garden]]
+→ [[Inbox/about|About me and this garden]]
 
 ## Notes
 
